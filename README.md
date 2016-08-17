@@ -3,7 +3,7 @@ persional repository
 
 ## repository address
 add this to your pom
-```
+```xml
 <repositories>
 	<repository>
 		<id>fooluodi-maven-repo</id>
@@ -14,7 +14,7 @@ add this to your pom
 
 and this
 
-```
+```xml
 <dependency>
 	<groupId>com.fooluodi</groupId>
 	<artifactId>foo-utils</artifactId>
