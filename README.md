@@ -1,7 +1,7 @@
 # MavenRepository
 persional repository
 
-## repository address
+## HOW TO USE
 add this to your pom
 ```xml
 <repositories>
@@ -21,3 +21,5 @@ and this
 	<version>0.1.0-SNAPSHOT</version>
 </dependency>
 ```
+
+enjoy! :)
